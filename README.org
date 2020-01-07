@@ -4,5 +4,5 @@ eSNNs implemented with Numpy. Clone this project and run:
 
 #+begin_src bash
   poetry install
-  poetry run python esnn/demo.py 
+  poetry run python esnn/demos/iris.py 
 #+end_src
